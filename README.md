@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I’m Deepak Rawat aka Deepakrawat18, a BCA student with a keen interest in web development. I enjoy creating clean, responsive, and interactive web applications.I am currently learning technologies like HTML, CSS, JavaScript, and exploring frameworks to enhance my development skills. I am motivated to build a strong career in the IT industry and always eager to learn new tools and technologies.🔭 I’m currently working on soberdev.in<br>
+Hello, I’m Deepak Rawat aka Deepakrawat18, a BCA student with a keen interest in web development. I enjoy creating clean, responsive, and interactive web applications.I am currently learning technologies like HTML, CSS, JavaScript, and exploring frameworks to enhance my development skills. I am motivated to build a strong career in the IT industry and always eager to learn new tools and technologies.🔭 I’m currently working on deepakrawat18.me <br>
 
 
 ## 🌐 Socials:
